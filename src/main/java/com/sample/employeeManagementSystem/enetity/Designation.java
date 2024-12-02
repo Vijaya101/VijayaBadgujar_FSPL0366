@@ -18,7 +18,7 @@ public class Designation {
     private String designationName;
 
     private boolean isActive;
-    private String createdby;
+    private String createdBy;
     private LocalDateTime createdDate;
     private String updatedBy;
     private LocalDateTime updateDate;

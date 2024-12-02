@@ -14,12 +14,12 @@ public class Department {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long deptId;
+    private Long departmentId;
 
     private String deptName;
 
     private boolean isActive;
-    private String createdby;
+    private String createdBy;
     private LocalDateTime createdDate;
     private String updatedBy;
     private LocalDateTime updatedDate;

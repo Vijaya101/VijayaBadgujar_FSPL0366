@@ -19,13 +19,13 @@ public class Employee1 {
 
     private String employeeName;
    private  String employeeLastName;
-    private Integer employeeMoNumber;
+    private String employeeMoNumber;
     private String employeeAddress;
-    private Integer DateofJoining;
+    private String dateOfJoining;
     private String email;
 
     private boolean isActive;
-    private String createdby;
+    private String createdBy;
     private LocalDateTime createdDate;
     private String updatedBy;
     private LocalDateTime updateDate;
